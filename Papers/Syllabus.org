@@ -1,0 +1,104 @@
+#+TITLE: Syllabus: Introduction to Sociolinguistics (ENG 241)
+#+Author: Charalambos Themistocleous
+#+EMAIL: themistocleous@gmail.com
+#+DESCRIPTION:
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:t ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+#+STARTUP: overview
+#+FILETAGS: RESEARCH
+#+STYLE: <link rel="stylesheet" type="text/css" href="http://www.tsdye.com/tsd.css" /> 
+#+LaTeX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [listof=flat,letterpaper,11pt,abstract=true]
+#+LaTeX_HEADER: \usepackage[AUTO]{inputenc}
+#+LaTeX_HEADER: \usepackage[T1]{fontenc} 
+#+LaTeX_HEADER: \usepackage[scaled]{beraserif}
+#+LaTeX_HEADER: \usepackage[scaled]{berasans} 
+#+LaTeX_HEADER: \usepackage[scaled]{beramono}
+#+LaTeX_HEADER: \usepackage[style=authoryear-comp,natbib=true]{biblatex}
+#+LaTeX_HEADER: \bibliography{colonization}
+#+LaTeX_HEADER: \usepackage{graphicx}
+#+LaTeX_HEADER: \setcounter{tocdepth}{1}
+#+LaTeX_HEADER: \setcounter{secnumdepth}{1}
+#+LaTeX_HEADER: \usepackage{microtype}
+#+LaTeX_HEADER: \newcommand{\rc}{\ensuremath{^{14}}{C}}
+#+LaTeX_HEADER: \usepackage{paralist}
+#+LaTeX_HEADER: \let\enumerate\compactenum
+#+LaTeX_HEADER: \let\description\compactdesc
+#+LaTeX_HEADER: \let\itemize\compactitem
+#+LaTeX_HEADER: \let\latin\textit
+#+LaTeX_HEADER: \usepackage{textcomp}
+#+LaTeX_HEADER: \usepackage{tabularx}
+
+* Introduction
+Introduction to Sociolinguistics is intended to provide students with a sound coverage of the topics related to sociolinguistics and the sociology of language. Students will gradually develop the joint premises that interpersonal communication practices are culturally variable, socially stratified and geographically distributed.
+The course is arranged thematically: each week, we will examine a major topic of sociolinguistic concern, considering theoretical, methodological and empirical work (observation and/or experimental). Students are responsible for writing a short, weekly assignment paper or small projects, to be handed in before each week’s Friday class. Students should, at a minimum, be prepared to discuss each of that class period’s focus questions in class.
+Assignments must be turned in on time to receive full credit and comments. Extensions will be granted only in cases of illness, family emergency, etc. Late assignments will not be accepted for credit if turned in after the problem set has been returned to students, or discussed in class, whichever comes first. You are encouraged to work on problem sets together, but your answers must be written up separately and in your own words.
+** --
+- Date :: Tuesday-Friday 16:30-18:00
+- Office Hours :: Tuesday 15:30-16:00 (office M 103)
+* Readings
+** Textbooks 
+- *TEXTBOOK* Meyerhoff, M. (2011). /Introducing Sociolinguistics (2nd ed.)/. London and New York: Routledge.
+- Wardhaugh, R. (2002). /An Introduction to Sociolinguistics (4th ed.)/. Oxford: Blackwell.
+- Duranti, A. (1997). /Linguistic Anthropology/. Cambridge: Cambridge University Press. 
+- Fromkin, V., Rodman, R., & Hyams, N. (2010). /An Introduction to Language (9th ed.)/. Boston: Cengage Learning (pp. 429-479).
+- Mesthrie, R., Swann, J., Deumert, A., & Leap, W. L. (2000). /Introducing Sociolinguistics/. Edinburgh: Edinburgh University Press.
+- Holmes, J. (2008). /An Introduction to Sociolinguistics/. Pearson Longman. 
+- Lippi-Green, R. (1997). /English with an Accent: Language, Ideology and Discrimination in the United States/. London and New York: Routledge. 
+- Wells, J. C. (1982). /Accents of English: An Introduction. Cambridge: Cambridge University Press/.
+** Online Resources:
+(listed alphabetically)
+- *DARE* (Dictionary of American Regional English): http://dare.wisc.edu/?q=node/1 
+- *IDEA* (International Dialects of English Archive): http://web.ku.edu/~idea/index.htm 
+- Speech Accent Archive: http://accent.gmu.edu/ 
+- The Audio Archive: http://alt-usage-english.org/audio_archive.shtml
+- Newton’s Isoglosses (see Maps of Cyprus with the variables):  www.charalambosthemistocleous.com 
+- See also the course’s website for more online resources and material.
+
+* Software (Open Source & Free)
+- Open-office
+- Zotero or Mendeley for bibliography
+- Acoustic Analysis: http://www.fon.hum.uva.nl/praat/ (Praat Tutorial)
+- Statistics: http://www.r-project.org/  (Manuals)
+
+* Citation Styles & Writing
+For your assignments you should follow the APA 6th ed. (See a tutorial here http://www.apastyle.org/learn/tutorials/basics-tutorial.aspx)
+American Psychological Association. (2009). Publication Manual of the American Psychological Association (6th ed.). Washington, DC: American Psychological Association.
+-	Do your weekly readings before coming to class.
+-	Homework must be handed in time.
+-	Class attendance and participation are important. If you cannot attend, it is your responsibility to contact me beforehand if possible.
+* Grading
+- Midterm Exam  20% :: The Midterm Exam will be held on Tuesday March 4, 2014. All students are expected to participate.
+- Final Exam    40% :: The Final Exam will test students’ knowledge on key  sociolinguistics notions.                                                         
+- Participation 15% :: You should do your weekly readings; answer questions in class; in addition, there will be four small take-home quizzes.                                           
+- Assignment    25% :: Everyone should think about some interesting variable phenomenon that nobody has studied (as far as you know). This may be a particular variable, a social unit that has its own special speech characteristics, or some interesting style. Describe this phenomenon and explain why you find it worth studying. Write a brief proposal for a study of the phenomenon, explaining how you would gather your data and what kinds of hypotheses you have.                                                                                                                                                                                      
+* Course Schedule
+** TOPIC 1. Introduction to Sociolinguistics
+- Week 1 :: Introduction
+- Reading :: Crawford, Feagin. (2003). Entering the community: fieldwork. In J. K. Chambers, P. Trudgill & N. Schilling-Estes (Eds.), The handbook of language variation and change (pp. 20-39). Oxford: Blackwell Publishing
+** TOPIC 2. Language And Variation
+- Week 2 :: Variation and language
+- Week 3 :: Variation and style
+- Reading :: Eckert, Penelope. (1989). The whole woman: Sex and gender differences in variation. Language Variation and Change, 1(03), 245-267.
+- Week 4 :: Gender
+- Week 5 :: Social class
+- Week 6 :: Age - Real time and apparent time
+- Midterm ::
+** TOPIC 3. Language and Social Functions
+- Week 7 :: Language attitudes
+- Week 8 :: Being polite as a variable in speech
+- Week 9 :: Multilingualism and English
+- Week 10 :: Social networks and communities of practice
+- Reading :: Milroy, J., & Milroy, L. (1985). Linguistic Change, Social Network and Speaker Innovation. Journal of Linguistics, 21(2), 339-384.
+- Week 11 :: Language contact
+- Week 12 :: Looking back and looking ahead  
+- Week 13 :: Indexicality
+- Week 14 :: Three waves of sociolinguistics

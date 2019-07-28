@@ -1,0 +1,151 @@
+% Created 2014-01-10 Fri 00:22
+\documentclass[listof=flat,letterpaper,11pt,abstract=true]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc} 
+\usepackage[scaled]{beraserif}
+\usepackage[scaled]{berasans} 
+\usepackage[scaled]{beramono}
+\usepackage[style=authoryear-comp,natbib=true]{biblatex}
+\bibliography{colonization}
+\usepackage{graphicx}
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{1}
+\usepackage{microtype}
+\newcommand{\rc}{\ensuremath{^{14}}{C}}
+\usepackage{paralist}
+\let\enumerate\compactenum
+\let\description\compactdesc
+\let\itemize\compactitem
+\let\latin\textit
+\usepackage{textcomp}
+\usepackage{tabularx}
+
+
+\title{Syllabus: Introduction to Sociolinguistics (ENG 241)}
+\author{Charalambos Themistocleous}
+\date{\today}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs Org-mode version 7.9.3f}}
+
+\begin{document}
+
+\maketitle
+
+% Org-mode is exporting headings to 3 levels.
+\section{Introduction}
+\label{sec-1}
+
+Introduction to Sociolinguistics is intended to provide students with a sound coverage of the topics related to sociolinguistics and the sociology of language. Students will gradually develop the joint premises that interpersonal communication practices are culturally variable, socially stratified and geographically distributed.
+The course is arranged thematically: each week, we will examine a major topic of sociolinguistic concern, considering theoretical, methodological and empirical work (observation and/or experimental). Students are responsible for writing a short, weekly assignment paper or small projects, to be handed in before each week’s Friday class. Students should, at a minimum, be prepared to discuss each of that class period’s focus questions in class. 
+Assignments must be turned in on time to receive full credit and comments. Extensions will be granted only in cases of illness, family emergency, etc. Late assignments will not be accepted for credit if turned in after the problem set has been returned to students, or discussed in class, whichever comes first. You are encouraged to work on problem sets together, but your answers must be written up separately and in your own words.
+\section{Readings}
+\label{sec-2}
+\subsection{Textbooks}
+\label{sec-2-1}
+
+\begin{itemize}
+\item \textbf{TEXTBOOK} Meyerhoff, M. (2011). \emph{Introducing Sociolinguistics (2nd ed.)}. London and New York: Routledge.
+\item Wardhaugh, R. (2002). \emph{An Introduction to Sociolinguistics (4th ed.)}. Oxford: Blackwell.
+\item Duranti, A. (1997). \emph{Linguistic Anthropology}. Cambridge: Cambridge University Press.
+\item Fromkin, V., Rodman, R., \& Hyams, N. (2010). \emph{An Introduction to Language (9th ed.)}. Boston: Cengage Learning (pp. 429-479).
+\item Mesthrie, R., Swann, J., Deumert, A., \& Leap, W. L. (2000). \emph{Introducing Sociolinguistics}. Edinburgh: Edinburgh University Press.
+\item Holmes, J. (2008). \emph{An Introduction to Sociolinguistics}. Pearson Longman.
+\item Lippi-Green, R. (1997). \emph{English with an Accent: Language, Ideology and Discrimination in the United States}. London and New York: Routledge.
+\item Wells, J. C. (1982). \emph{Accents of English: An Introduction. Cambridge: Cambridge University Press}.
+\end{itemize}
+\subsection{Online Resources:}
+\label{sec-2-2}
+
+(listed alphabetically)
+\begin{itemize}
+\item \textbf{DARE} (Dictionary of American Regional English): \href{http://dare.wisc.edu/?q=node/1}{http://dare.wisc.edu/?q=node/1}
+\item \textbf{IDEA} (International Dialects of English Archive): \href{http://web.ku.edu/~idea/index.htm}{http://web.ku.edu/\~idea/index.htm}
+\item Speech Accent Archive: \href{http://accent.gmu.edu/}{http://accent.gmu.edu/}
+\item The Audio Archive: \href{http://alt-usage-english.org/audio_archive.shtml}{http://alt-usage-english.org/audio\_archive.shtml}
+\item Newton’s Isoglosses (see Maps of Cyprus with the variables):  www.charalambosthemistocleous.com
+\item See also the course’s website for more online resources and material.
+\end{itemize}
+\subsection{Articles for Reading}
+\label{sec-2-3}
+\section{Software (Open Source \& Free)}
+\label{sec-3}
+
+\begin{itemize}
+\item Openoffice
+\item Zotero or Mendeley for bibliography
+\item Acoustic Analysis: \href{http://www.fon.hum.uva.nl/praat/}{http://www.fon.hum.uva.nl/praat/} (Praat Tutorial)
+\item Statistics: \href{http://www.r-project.org/}{http://www.r-project.org/}  (Manuals)
+\end{itemize}
+\section{Citation Styles \& Writing}
+\label{sec-4}
+
+For your assignments you should follow the APA 6th ed. (See a tutorial here \href{http://www.apastyle.org/learn/tutorials/basics-tutorial.aspx}{http://www.apastyle.org/learn/tutorials/basics-tutorial.aspx})
+American Psychological Association. (2009). Publication Manual of the American Psychological Association (6th ed.). Washington, DC: American Psychological Association.
+\begin{itemize}
+\item Do your weekly readings before coming to class.
+\item Homework must be handed in time.
+\item Class attendance and participation are important. If you cannot attend, it is your responsibility to contact me beforehand if possible.
+\end{itemize}
+\section{Grading}
+\label{sec-5}
+
+\begin{description}
+\item[Midterm Exam  20\%] The Midterm Exam will be held on Monday, March 3, 2014. All students are expected to participate.
+\item[Final Exam    40\%] The Final Exam will test students’ knowledge on key  sociolinguistics notions.
+\item[Participation 15\%] You are supposed to do weekly readings (so be prepared) and participate in class.
+\item[Assignment    20\%] Everyone should think about some interesting variable phenomenon that nobody has studied (as far as you know). This may be a particular variable, a social unit that has its own special speech characteristics, or some interesting style. Describe this phenomenon and explain why you find it worth studying. Write a brief proposal for a study of the phenomenon, explaining how you would gather your data and what kinds of hypotheses you have.
+\end{description}
+\section{Course Schedule}
+\label{sec-6}
+\subsection{TOPIC 1. Introduction to Sociolinguistics}
+\label{sec-6-1}
+
+\begin{description}
+\item[Week 1] Introduction
+\item[Reading] Crawford, Feagin. (2003). Entering the community: fieldwork. In J. K. Chambers, P. Trudgill \& N. Schilling-Estes (Eds.), The handbook of language variation and change (pp. 20-39). Oxford: Blackwell Publishing
+\end{description}
+\subsection{TOPIC 2. Language And Variation}
+\label{sec-6-2}
+
+\begin{description}
+\item[Week 2] Variation and language
+\item[Week 3] Variation and style
+\item[Reading] Eckert, Penelope. (1989). The whole woman: Sex and gender differences in variation. Language Variation and Change, 1(03), 245-267.
+\item[Week 4] Gender
+\item[Week 5] Social class
+\item[Week 6] Age - Real time and apparent time
+\item[Miterm]
+\end{description}
+\subsection{TOPIC 3. Language and Social Functions}
+\label{sec-6-3}
+
+\begin{description}
+\item[Week 7] Language attitudes
+\item[Week 8] Being polite as a variable in speech
+\item[Week 9] Multilingualism and English
+\item[Week 10] Social networks and communities of practice
+\item[Reading] Milroy, J., \& Milroy, L. (1985). Linguistic Change, Social Network and Speaker Innovation. Journal of Linguistics, 21(2), 339-384.
+\item[Week 11] Language contact
+\item[Week 12] Looking back and looking ahead
+\item[Week 13] Indexicality
+\item[Week 14] Three waves of sociolinguistics
+\end{description}
+
+\end{document}
