@@ -9,4 +9,6 @@ Why do we speak differently from our grandparents? Why do speakers from differen
 
 (d) language change.
 
+![Networks](./Figures/nets.png)
+
 This class is essentially a trip into language and society. We will meet the main practitioners of the field. We will try to uncover the philosophies that underlie their thought and the ideas that formed their approaches. We will explore thoroughly the phonemic systems of languages and try to uncover the reasons of change.
